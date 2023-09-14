@@ -1,9 +1,9 @@
 # search-query-string
-you can easily use following functions to partse url search query to javascript object
+you can easily use following functions to parse url search query to javascript object
 
 OR 
 
-Object to url search query string
+javascript Object to url search query string
 
 
 ```javascript
